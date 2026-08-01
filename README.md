@@ -30,6 +30,9 @@ do your job well (ดู ยัวร์ จ็อบ เวล) — ทำง�
 handle (แฮน-เดิล)
 — จัดการ (กับสิ่งใดสิ่งหนึ่ง) ควบคุม รับมือ
 etc. (et cetera) (อ็ท-เซ็ท-เทอ-ร่า) — และอื่นๆ, และอื่นๆ อีกมากมาย  
+encountered (เอน-เคาน-เทอร์ด) — พบเจอ, ประสบ (ปัญหา, สถานการณ์)  
+
+ 
 
 
 
@@ -45,3 +48,6 @@ These days, data science is a hugely popular career path.
 We need to collect data in order to improve our system.
 I can handle this problem.
 (ฉันสามารถจัดการกับปัญหานี้ได้)
+I encountered a problem while working.
+(ฉันพบปัญหาในขณะที่ทำงาน)
+
