@@ -27,6 +27,8 @@ concise (คอน-ไซส์) — กระชับ
 clear (เคลียร์) — ชัดเจน
 encounter (เอน-เคาน์-เทอะ) — พบเจอ
 do your job well (ดู ยัวร์ จ็อบ เวล) — ทำงานได้ดี
+handle (แฮน-เดิล)
+-จัดการ (กับสิ่งใดสิ่งหนึ่ง) ควบคุม รับมือ
 
 
 
@@ -40,3 +42,5 @@ The stakeholders requested a transparent and concise report.
 She has a solid background in blockchain development.
 These days, data science is a hugely popular career path.
 We need to collect data in order to improve our system.
+I can handle this problem.
+(ฉันสามารถจัดการกับปัญหานี้ได้)
