@@ -176,6 +176,11 @@ She rarely misses a meeting.
 "I don't write 50 emails a day." (ฉันไม่ได้เขียน 50 อีเมลต่อวัน)
 "She doesn't write 50 emails a day." (เธอไม่ได้เขียน 50 อีเมลต่อวัน)
 
+สรุป:  
+
+"She writes email." = เขียนอีเมลโดยทั่วไป (ไม่ระบุจำนวน)
+"She writes an email." = เขียนอีเมล 1 ฉบับ
+"She writes emails." = เขียนอีเมลหลายฉบับ
 
 ใช้พูดถึงกิจวัตรประจำวันหรืองานที่ทำเป็นประจำ เช่น "I write 50 emails a day."
 กริยาจะเติม -s เมื่อประธานเป็นบุรุษที่สามเอกพจน์ เช่น "Bill writes 50 emails a day."
