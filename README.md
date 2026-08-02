@@ -272,6 +272,16 @@ They are cooking dinner.
 ลองเปลี่ยนกริยาอื่น ๆ ในรูป present continuous เช่น "I am studying now," "She is working at the office," "They are playing football."
 ฝึกถาม-ตอบ เช่น "What are you doing now?" → "I am eating."
 
+
+ถ้าคุณเข้าใจและใช้ Present Continuous Tense ได้ดีแล้ว คุณอาจลองฝึกเพิ่มเติมด้วย:  
+
+การใช้ Present Continuous กับคำบอกเวลาอื่น เช่น "at the moment," "currently," "these days"
+ฝึกเปรียบเทียบ Present Simple กับ Present Continuous เช่น
+I study every day. (กิจวัตร)
+I am studying right now. (กำลังทำตอนนี้)
+ฝึกสร้างประโยคปฏิเสธและคำถาม เช่น
+I am not studying now.
+Are you studying now?
 -------------------------------------------------------------------------------------
 
 
