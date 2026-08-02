@@ -257,5 +257,10 @@ She is working today.
 They are cooking dinner.
 ถ้าคุณทำ 4 ข้อนี้ได้ ถือว่า “เนื้อหาหลักครบ”
 
+คุณอาจลองฝึกเพิ่มเติมโดย:  
+
+ใช้คำบอกเวลาหรือสถานที่อื่น ๆ เช่น "right now," "at the moment," "in the kitchen"
+ลองเปลี่ยนกริยาอื่น ๆ ในรูป present continuous เช่น "I am studying now," "She is working at the office," "They are playing football."
+ฝึกถาม-ตอบ เช่น "What are you doing now?" → "I am eating."
 
 -------------------------------------------------------------------------------------
