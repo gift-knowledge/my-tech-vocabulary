@@ -306,4 +306,47 @@ Are you studying now?
 Present Simple: "He writes 50 emails a day."
 Present Continuous: "He is writing an email now."
 
+ประโยค "I writes" ไม่ถูกต้องค่ะ
+
+ในภาษาอังกฤษ เมื่อใช้ประธาน "I" กับกริยาใน Present Simple จะไม่เติม "s" ที่ท้ายกริยา ดังนั้นต้องพูดว่า
+I write (ฉันเขียน)
+ไม่ใช่ "I writes"
+
+แต่ถ้าประธานเป็น "he," "she," หรือ "it" ถึงจะเติม "s" เช่น
+He writes (เขาเขียน)
+
 ------------------------------------------------------------------
+The form of the present simple verb only changes after he, she, or it. For example, the verb write changes to writes only with he, she, or it.
+
+I, you, we, they ใช้ write
+he, she, it ใช้ writes
+
+
+  บทเรียนนี้สอนเกี่ยวกับการใช้ Present Simple และ Present Continuous ในภาษาอังกฤษ ซึ่งช่วยให้เราเล่าเรื่องเกี่ยวกับสิ่งที่เกิดขึ้นเป็นประจำ หรือสิ่งที่กำลังเกิดขึ้นตอนนี้ได้อย่างถูกต้อง
+
+Present Simple (กาลปัจจุบันแบบง่าย)
+
+ใช้พูดถึงสิ่งที่เป็นความจริงตลอดเวลา เช่น "Paul loves writing emails." (พอลชอบเขียนอีเมล)
+ใช้พูดถึงกิจวัตรประจำวัน เช่น "Paul sends 50 emails a day." (พอลส่งอีเมล 50 ฉบับต่อวัน)
+Present Continuous (กาลปัจจุบันแบบต่อเนื่อง)
+
+ใช้พูดถึงสิ่งที่กำลังเกิดขึ้นในขณะนี้ เช่น "Paul is checking his inbox now." (พอลกำลังตรวจสอบกล่องจดหมายตอนนี้)
+ใช้พูดถึงกิจกรรมชั่วคราว เช่น "This week Paul is answering Bob’s mail while he is away." (สัปดาห์นี้พอลกำลังตอบอีเมลของบ็อบในขณะที่บ็อบไม่อยู่)
+ตัวอย่างประโยคและการเปลี่ยนรูปคำกริยา
+
+Present Simple: "He writes emails every day." (เขาเขียนอีเมลทุกวัน) – เติม s หรือ es ที่ท้ายคำกริยาหากประธานเป็น he, she, it
+Present Continuous: "She is writing an email now." (เธอกำลังเขียนอีเมลตอนนี้) – ใช้ verb to be (is/am/are) + กริยารูป -ing
+เคล็ดลับ
+
+ถ้าคำกริยาจบด้วย e ให้ตัด e แล้วเติม ing เช่น "write" เป็น "writing"
+ถ้าคำกริยาจบด้วยสระ + พยัญชนะ ให้เพิ่มพยัญชนะซ้ำ เช่น "run" เป็น "running"
+คำกริยาบางคำไม่ใช้ใน Present Continuous เพราะเป็นคำกริยาที่บอกสถานะ เช่น "want" ไม่ใช้ "I am wanting"
+สรุปง่ายๆ
+
+Present Simple ใช้พูดถึงสิ่งที่เป็นจริงหรือทำเป็นประจำ
+Present Continuous ใช้พูดถึงสิ่งที่กำลังเกิดขึ้นหรือทำชั่วคราว
+ตัวอย่างประโยคครบสมบูรณ์
+
+Present Simple: "She always responds to emails immediately." (เธอมักจะตอบอีเมลทันที)
+Present Continuous: "At the moment, he is writing an email to a client." (ตอนนี้เขากำลังเขียนอีเมลถึงลูกค้า)
+เด็ก ป.3 สามารถใช้ประโยคเหล่านี้พูดถึงกิจวัตรและสิ่งที่กำลังทำได้ในชีวิตประจำวันค่ะ
