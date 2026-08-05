@@ -588,3 +588,6 @@ Active listening (แอคทีฟ ลิสเทนนิ่ง) = การ
 *จังหวะสลวย: เว้นจังหวะเน้นเสียงหนักที่คำว่า "เซฟ ยัวร์ ไทม์" และ "มัน-นี่" ชัดๆ
 -> ฉันตั้งตารอที่จะได้เข้าไปทำระบบอัตโนมัติให้ธุรกิจของคุณ เพื่อประหยัดเวลาและเงินทุนของคุณค่ะ
 ***************************************************************************
+พูดตามนี้นะ ///
+Hi everyone! My name is Natalie. You can call me Grace. I'm an AI Automation & Data specialist. I have experience in data analytics and information systems. I work as a digital solopreneur who helps businesses automate their processes. My job is to handle data cleaning and make sure your workflow runs smoothly. Right now I am working on building Multi-AI Agent systems using crewAI. I am looking forward to automating your business to save your time and money. Nice to meet you all!
+------------------------------------------------------------------------------------------------
